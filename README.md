@@ -18,3 +18,10 @@ Although being a relatively brief insight, it can be further enhanced to support
 This app submission uses an open source SwiftUI library [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI), it allows you to create and customize confetti animations. This custom library being a swift package allows me to use the confetti animations without having to re-invent the wheel for a particular view in my app playground. 
 
 The handy view modifier provides a variety of options to enhance the user experience with smooth animations.
+
+# Screenshots
+<p float="left" align="center">
+  <img src="Simulator Screenshot - iPhone 15 Pro - 2024-02-18 at 14.11.11.png" width="33%" />
+  <img src="Simulator Screenshot - iPhone 15 Pro - 2024-02-18 at 14.11.19.png" width="33%" />
+  <img src="Simulator Screenshot - iPhone 15 Pro - 2024-02-18 at 14.11.39.png" width="33%" />
+</p>
